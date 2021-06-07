@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Jun 07 23:12:55 CST 2021
-dc3-boot-starter-1.3.2.SR.jar>=
-dc3-boot-starter-1.3.2.SR.pom>=
+#Mon Jun 07 23:29:05 CST 2021
+dc3-boot-starter-1.3.2.SR.jar>github-dc3=
+dc3-boot-starter-1.3.2.SR.pom>github-dc3=
