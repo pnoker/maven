@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 31 20:53:46 CST 2021
+https\://maven.aliyun.com/repository/central/.error=
+https\://maven.aliyun.com/repository/central/.lastUpdated=1622465624031
+https\://maven.mangoautomation.net/repository/ias-release/.lastUpdated=1622465626688
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://maven.pkg.github.com/pnoker/iot-dc3/.error=
+https\://maven.mangoautomation.net/repository/ias-release/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1622465625524
+https\://maven.pkg.github.com/pnoker/iot-dc3/.lastUpdated=1622465625347
